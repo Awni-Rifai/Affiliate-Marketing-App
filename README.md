@@ -14,7 +14,7 @@ This project demos a super affiliate marketing referral system built with Larave
 - Run `php artisan db:seed RoleSeeder` to seed user roles
 - Run `php artisan db:seed DatabaseSeeder` to seed users
 - you should run the command above once if you have any error run `php artisan migrate:fresh` then repeat the above 2 commands
-- you can see the admin acount ready in DatabaseSeeder.php the account with the role_id 1 is a user account and with role_id 2 admin account
+- you can see the admin account ready in DatabaseSeeder.php the account with the role_id 1 is a user account and with role_id 2 admin account
 
 
 
